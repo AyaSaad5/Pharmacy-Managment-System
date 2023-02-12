@@ -1,0 +1,54 @@
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form6.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form8.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form6.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form8.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form6.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form7.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form8.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dell\Desktop\pharmaysystem\Pharmacy System[DB_]\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
